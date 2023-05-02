@@ -6,5 +6,5 @@
         - WSL
         - Dev Conainers
 * WSL
-* Docker
+* Docker Desktop
 * VcXsrv (X Window System)
