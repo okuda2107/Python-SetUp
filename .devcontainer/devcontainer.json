@@ -10,7 +10,10 @@
 	},
 	"extensions": [
         "ms-python.python"
-    ]
+    ],
+	"mounts": [
+		"source=${localWorkspaceFolder}/.devcontainer/.python,target=/home/vscode/.local/lib/python3.8/site-packages,type=bind"
+	]
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
